@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{1A9CFBDA-2E91-5EE1-B2E0-BD87473E37BD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ObjectGen.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MazeMaker.cs" Line="16" Column="19" IsPinned="True" />
+      <File FileName="Assets/Scripts/MeshBuilder.cs" Line="29" Column="1" IsPinned="True" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="70" Column="21" />
+      <File FileName="Assets/Scripts/Quit.cs" Line="6" Column="1" />
+      <File FileName="Assets/Scripts/TerCont.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ObjectGen.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LoadHeight.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EndCar.cs" Line="41" Column="24" />
+      <File FileName="Assets/Scripts/PlatformRace.cs" Line="8" Column="47" />
+      <File FileName="Assets/Scripts/Road.cs" Line="198" Column="41" />
+      <File FileName="Assets/Scripts/Wall.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TriangleMaker.cs" Line="69" Column="1" />
+      <File FileName="Assets/Scripts/CubeCreater.cs" Line="110" Column="22" />
+      <File FileName="Assets/Scripts/PlaneCreator.cs" Line="48" Column="31" />
+      <File FileName="Assets/Scripts/Pyramid.cs" Line="61" Column="1" />
+      <File FileName="Assets/Scripts/Wall2.cs" Line="82" Column="50" />
+      <File FileName="Assets/Scripts/PlatformFinal.cs" Line="9" Column="50" />
+      <File FileName="Assets/Scripts/Maze.cs" Line="56" Column="6" />
+      <File FileName="Assets/Scripts/CAr.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ComputerGraphicsAssignment" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="ObjectGen.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3ad42320-1cdb-4d10-9dd4-978fcc80f09a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
